@@ -1,9 +1,13 @@
-Bro Go To Releases
-
-Supported Browsers : Opera GX, Brave , Chrome
-
-Basic Steps :
-1.Open Whatsapp web (obviously logged in) and open the target chat you want to spam at
-2. Press F12 and CTRL+V The Code inside it
-3. Now You will see something like (undefined at output but ignore it)
-4. Now We want to send message in this format
+/**
+ * WhatsApp Web Spammer Script
+ * 
+ * Supported Browsers: Opera GX, Brave, Chrome
+ * 
+ * Usage:
+ * 1. Open WhatsApp Web and log in.
+ * 2. Open the target chat where you want to send messages.
+ * 3. Press F12 to open the developer console.
+ * 4. Paste this script into the console and press Enter.
+ * 5. Type your message in the format: "YourMessage #3#" (sends "YourMessage" 3 times).
+ * 6. Enjoy responsibly!
+ */
